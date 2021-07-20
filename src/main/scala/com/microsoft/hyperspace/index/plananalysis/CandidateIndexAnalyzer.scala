@@ -142,6 +142,7 @@ object CandidateIndexAnalyzer extends Logging {
       stringBuilder.append(l)
       stringBuilder.append(newLine)
     }
+    stringBuilder.append(newLine)
     stringBuilder.toString
   }
 
@@ -270,6 +271,7 @@ object CandidateIndexAnalyzer extends Logging {
       stringBuilder.append(l)
       stringBuilder.append(newLine)
     }
+    stringBuilder.append(newLine)
     stringBuilder.toString
   }
 
